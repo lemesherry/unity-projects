@@ -1,4 +1,4 @@
-# unity-projects
+# My Unity Projects
 ### All projects were done while I was enrolled in junior unity developer program by [GameTrain](https://www.gametrain.org/) sponsored by [Generation Pakistan](https://pakistan.generation.org/).
 
 #### **Projects**
