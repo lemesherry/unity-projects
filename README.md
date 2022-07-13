@@ -16,4 +16,4 @@
 
 #### My other small projects on [play.unity.com](https://play.unity.com/u/lemesherry)
 
-### Other projects are [here](https://github.com/lemesherry/unity-projects) (Most of them are made after I completed GameTrain program).
+### Other projects are [here](https://github.com/lemesherry/Unity-Projects-Source-Code) (Most of them are made after I completed GameTrain program).
